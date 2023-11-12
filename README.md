@@ -21,7 +21,7 @@ Example:  https://YOUR_HOST/?APP_KEY=YOUR_SECRET_FOR_THE_GHOST_INTEGRATION
 
 ### Python setup:
 
-- Clone the repo: `git clone https://gitlab.com/abvavgjeremy/ivorybridge.git`
+- Clone the repo: `git clone https://github.com/ephergent/ivorybridge.git`
 - Change into the directory: `cd ivorybridge`
 - Create a virtual environment: `virtualenv -p pytho3 venv`
 - Source it: `source venv/bin/activate`
